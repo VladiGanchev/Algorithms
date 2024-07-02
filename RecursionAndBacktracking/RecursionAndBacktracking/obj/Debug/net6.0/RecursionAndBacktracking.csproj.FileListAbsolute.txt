@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Algorithms\RecursionAndBacktracking\RecursionAndBacktracking\obj\Debug\net6.0\RecursionAndBacktracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Algorithms\RecursionAndBacktracking\RecursionAndBacktracking\obj\Debug\net6.0\RecursionAndBacktracking.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Algorithms\RecursionAndBacktracking\RecursionAndBacktracking\obj\Debug\net6.0\RecursionAndBacktracking.AssemblyInfo.cs
+C:\Users\user\source\repos\Algorithms\RecursionAndBacktracking\RecursionAndBacktracking\obj\Debug\net6.0\RecursionAndBacktracking.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Algorithms\RecursionAndBacktracking\RecursionAndBacktracking\bin\Debug\net6.0\RecursionAndBacktracking.exe
+C:\Users\user\source\repos\Algorithms\RecursionAndBacktracking\RecursionAndBacktracking\bin\Debug\net6.0\RecursionAndBacktracking.deps.json
+C:\Users\user\source\repos\Algorithms\RecursionAndBacktracking\RecursionAndBacktracking\bin\Debug\net6.0\RecursionAndBacktracking.runtimeconfig.json
+C:\Users\user\source\repos\Algorithms\RecursionAndBacktracking\RecursionAndBacktracking\bin\Debug\net6.0\RecursionAndBacktracking.dll
+C:\Users\user\source\repos\Algorithms\RecursionAndBacktracking\RecursionAndBacktracking\bin\Debug\net6.0\RecursionAndBacktracking.pdb
+C:\Users\user\source\repos\Algorithms\RecursionAndBacktracking\RecursionAndBacktracking\obj\Debug\net6.0\RecursionAndBacktracking.dll
+C:\Users\user\source\repos\Algorithms\RecursionAndBacktracking\RecursionAndBacktracking\obj\Debug\net6.0\refint\RecursionAndBacktracking.dll
+C:\Users\user\source\repos\Algorithms\RecursionAndBacktracking\RecursionAndBacktracking\obj\Debug\net6.0\RecursionAndBacktracking.pdb
+C:\Users\user\source\repos\Algorithms\RecursionAndBacktracking\RecursionAndBacktracking\obj\Debug\net6.0\RecursionAndBacktracking.genruntimeconfig.cache
+C:\Users\user\source\repos\Algorithms\RecursionAndBacktracking\RecursionAndBacktracking\obj\Debug\net6.0\ref\RecursionAndBacktracking.dll
