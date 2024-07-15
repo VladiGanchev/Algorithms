@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\ConnectedAreasInMatrix\bin\Debug\net6.0\ConnectedAreasInMatrix.exe
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\ConnectedAreasInMatrix\bin\Debug\net6.0\ConnectedAreasInMatrix.deps.json
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\ConnectedAreasInMatrix\bin\Debug\net6.0\ConnectedAreasInMatrix.runtimeconfig.json
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\ConnectedAreasInMatrix\bin\Debug\net6.0\ConnectedAreasInMatrix.dll
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\ConnectedAreasInMatrix\bin\Debug\net6.0\ConnectedAreasInMatrix.pdb
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\ConnectedAreasInMatrix\obj\Debug\net6.0\ConnectedAreasInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\ConnectedAreasInMatrix\obj\Debug\net6.0\ConnectedAreasInMatrix.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\ConnectedAreasInMatrix\obj\Debug\net6.0\ConnectedAreasInMatrix.AssemblyInfo.cs
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\ConnectedAreasInMatrix\obj\Debug\net6.0\ConnectedAreasInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\ConnectedAreasInMatrix\obj\Debug\net6.0\ConnectedAreasInMatrix.dll
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\ConnectedAreasInMatrix\obj\Debug\net6.0\refint\ConnectedAreasInMatrix.dll
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\ConnectedAreasInMatrix\obj\Debug\net6.0\ConnectedAreasInMatrix.pdb
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\ConnectedAreasInMatrix\obj\Debug\net6.0\ConnectedAreasInMatrix.genruntimeconfig.cache
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\ConnectedAreasInMatrix\obj\Debug\net6.0\ref\ConnectedAreasInMatrix.dll

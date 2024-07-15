@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\SchoolTeams\bin\Debug\net6.0\SchoolTeams.exe
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\SchoolTeams\bin\Debug\net6.0\SchoolTeams.deps.json
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\SchoolTeams\bin\Debug\net6.0\SchoolTeams.runtimeconfig.json
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\SchoolTeams\bin\Debug\net6.0\SchoolTeams.dll
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\SchoolTeams\bin\Debug\net6.0\SchoolTeams.pdb
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\SchoolTeams\obj\Debug\net6.0\SchoolTeams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\SchoolTeams\obj\Debug\net6.0\SchoolTeams.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\SchoolTeams\obj\Debug\net6.0\SchoolTeams.AssemblyInfo.cs
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\SchoolTeams\obj\Debug\net6.0\SchoolTeams.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\SchoolTeams\obj\Debug\net6.0\SchoolTeams.dll
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\SchoolTeams\obj\Debug\net6.0\refint\SchoolTeams.dll
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\SchoolTeams\obj\Debug\net6.0\SchoolTeams.pdb
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\SchoolTeams\obj\Debug\net6.0\SchoolTeams.genruntimeconfig.cache
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\SchoolTeams\obj\Debug\net6.0\ref\SchoolTeams.dll

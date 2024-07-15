@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\WordCruncher\obj\Debug\net6.0\WordCruncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\WordCruncher\obj\Debug\net6.0\WordCruncher.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\WordCruncher\obj\Debug\net6.0\WordCruncher.AssemblyInfo.cs
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\WordCruncher\obj\Debug\net6.0\WordCruncher.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\WordCruncher\bin\Debug\net6.0\WordCruncher.exe
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\WordCruncher\bin\Debug\net6.0\WordCruncher.deps.json
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\WordCruncher\bin\Debug\net6.0\WordCruncher.runtimeconfig.json
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\WordCruncher\bin\Debug\net6.0\WordCruncher.dll
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\WordCruncher\bin\Debug\net6.0\WordCruncher.pdb
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\WordCruncher\obj\Debug\net6.0\WordCruncher.dll
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\WordCruncher\obj\Debug\net6.0\refint\WordCruncher.dll
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\WordCruncher\obj\Debug\net6.0\WordCruncher.pdb
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\WordCruncher\obj\Debug\net6.0\WordCruncher.genruntimeconfig.cache
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\WordCruncher\obj\Debug\net6.0\ref\WordCruncher.dll

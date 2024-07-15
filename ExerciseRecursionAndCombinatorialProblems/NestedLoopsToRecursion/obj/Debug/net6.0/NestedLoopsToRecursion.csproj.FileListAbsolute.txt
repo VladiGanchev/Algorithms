@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\NestedLoopsToRecursion\bin\Debug\net6.0\NestedLoopsToRecursion.exe
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\NestedLoopsToRecursion\bin\Debug\net6.0\NestedLoopsToRecursion.deps.json
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\NestedLoopsToRecursion\bin\Debug\net6.0\NestedLoopsToRecursion.runtimeconfig.json
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\NestedLoopsToRecursion\bin\Debug\net6.0\NestedLoopsToRecursion.dll
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\NestedLoopsToRecursion\bin\Debug\net6.0\NestedLoopsToRecursion.pdb
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\NestedLoopsToRecursion\obj\Debug\net6.0\NestedLoopsToRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\NestedLoopsToRecursion\obj\Debug\net6.0\NestedLoopsToRecursion.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\NestedLoopsToRecursion\obj\Debug\net6.0\NestedLoopsToRecursion.AssemblyInfo.cs
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\NestedLoopsToRecursion\obj\Debug\net6.0\NestedLoopsToRecursion.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\NestedLoopsToRecursion\obj\Debug\net6.0\NestedLoopsToRecursion.dll
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\NestedLoopsToRecursion\obj\Debug\net6.0\refint\NestedLoopsToRecursion.dll
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\NestedLoopsToRecursion\obj\Debug\net6.0\NestedLoopsToRecursion.pdb
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\NestedLoopsToRecursion\obj\Debug\net6.0\NestedLoopsToRecursion.genruntimeconfig.cache
+C:\Users\user\source\repos\Algorithms\ExerciseRecursionAndCombinatorialProblems\NestedLoopsToRecursion\obj\Debug\net6.0\ref\NestedLoopsToRecursion.dll
