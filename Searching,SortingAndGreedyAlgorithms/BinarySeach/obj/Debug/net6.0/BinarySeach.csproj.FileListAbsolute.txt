@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\BinarySeach\bin\Debug\net6.0\BinarySeach.exe
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\BinarySeach\bin\Debug\net6.0\BinarySeach.deps.json
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\BinarySeach\bin\Debug\net6.0\BinarySeach.runtimeconfig.json
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\BinarySeach\bin\Debug\net6.0\BinarySeach.dll
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\BinarySeach\bin\Debug\net6.0\BinarySeach.pdb
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\BinarySeach\obj\Debug\net6.0\BinarySeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\BinarySeach\obj\Debug\net6.0\BinarySeach.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\BinarySeach\obj\Debug\net6.0\BinarySeach.AssemblyInfo.cs
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\BinarySeach\obj\Debug\net6.0\BinarySeach.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\BinarySeach\obj\Debug\net6.0\BinarySeach.dll
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\BinarySeach\obj\Debug\net6.0\refint\BinarySeach.dll
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\BinarySeach\obj\Debug\net6.0\BinarySeach.pdb
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\BinarySeach\obj\Debug\net6.0\BinarySeach.genruntimeconfig.cache
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\BinarySeach\obj\Debug\net6.0\ref\BinarySeach.dll

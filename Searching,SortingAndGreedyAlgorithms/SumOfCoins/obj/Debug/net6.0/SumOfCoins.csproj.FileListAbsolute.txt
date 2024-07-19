@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\SumOfCoins\bin\Debug\net6.0\SumOfCoins.exe
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\SumOfCoins\bin\Debug\net6.0\SumOfCoins.deps.json
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\SumOfCoins\bin\Debug\net6.0\SumOfCoins.runtimeconfig.json
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\SumOfCoins\bin\Debug\net6.0\SumOfCoins.dll
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\SumOfCoins\bin\Debug\net6.0\SumOfCoins.pdb
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\SumOfCoins\obj\Debug\net6.0\SumOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\SumOfCoins\obj\Debug\net6.0\SumOfCoins.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\SumOfCoins\obj\Debug\net6.0\SumOfCoins.AssemblyInfo.cs
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\SumOfCoins\obj\Debug\net6.0\SumOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\SumOfCoins\obj\Debug\net6.0\SumOfCoins.dll
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\SumOfCoins\obj\Debug\net6.0\refint\SumOfCoins.dll
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\SumOfCoins\obj\Debug\net6.0\SumOfCoins.pdb
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\SumOfCoins\obj\Debug\net6.0\SumOfCoins.genruntimeconfig.cache
+C:\Users\user\source\repos\Algorithms\Searching,SortingAndGreedyAlgorithms\SumOfCoins\obj\Debug\net6.0\ref\SumOfCoins.dll
