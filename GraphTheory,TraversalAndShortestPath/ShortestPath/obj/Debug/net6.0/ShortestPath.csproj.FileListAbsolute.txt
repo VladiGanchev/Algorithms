@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Algorithms\GraphTheory,TraversalAndShortestPath\ShortestPath\bin\Debug\net6.0\ShortestPath.exe
+C:\Users\user\source\repos\Algorithms\GraphTheory,TraversalAndShortestPath\ShortestPath\bin\Debug\net6.0\ShortestPath.deps.json
+C:\Users\user\source\repos\Algorithms\GraphTheory,TraversalAndShortestPath\ShortestPath\bin\Debug\net6.0\ShortestPath.runtimeconfig.json
+C:\Users\user\source\repos\Algorithms\GraphTheory,TraversalAndShortestPath\ShortestPath\bin\Debug\net6.0\ShortestPath.dll
+C:\Users\user\source\repos\Algorithms\GraphTheory,TraversalAndShortestPath\ShortestPath\bin\Debug\net6.0\ShortestPath.pdb
+C:\Users\user\source\repos\Algorithms\GraphTheory,TraversalAndShortestPath\ShortestPath\obj\Debug\net6.0\ShortestPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Algorithms\GraphTheory,TraversalAndShortestPath\ShortestPath\obj\Debug\net6.0\ShortestPath.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Algorithms\GraphTheory,TraversalAndShortestPath\ShortestPath\obj\Debug\net6.0\ShortestPath.AssemblyInfo.cs
+C:\Users\user\source\repos\Algorithms\GraphTheory,TraversalAndShortestPath\ShortestPath\obj\Debug\net6.0\ShortestPath.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Algorithms\GraphTheory,TraversalAndShortestPath\ShortestPath\obj\Debug\net6.0\ShortestPath.dll
+C:\Users\user\source\repos\Algorithms\GraphTheory,TraversalAndShortestPath\ShortestPath\obj\Debug\net6.0\refint\ShortestPath.dll
+C:\Users\user\source\repos\Algorithms\GraphTheory,TraversalAndShortestPath\ShortestPath\obj\Debug\net6.0\ShortestPath.pdb
+C:\Users\user\source\repos\Algorithms\GraphTheory,TraversalAndShortestPath\ShortestPath\obj\Debug\net6.0\ShortestPath.genruntimeconfig.cache
+C:\Users\user\source\repos\Algorithms\GraphTheory,TraversalAndShortestPath\ShortestPath\obj\Debug\net6.0\ref\ShortestPath.dll
