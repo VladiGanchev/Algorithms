@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\CyclesInAGraph\bin\Debug\net6.0\CyclesInAGraph.exe
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\CyclesInAGraph\bin\Debug\net6.0\CyclesInAGraph.deps.json
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\CyclesInAGraph\bin\Debug\net6.0\CyclesInAGraph.runtimeconfig.json
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\CyclesInAGraph\bin\Debug\net6.0\CyclesInAGraph.dll
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\CyclesInAGraph\bin\Debug\net6.0\CyclesInAGraph.pdb
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\CyclesInAGraph\obj\Debug\net6.0\CyclesInAGraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\CyclesInAGraph\obj\Debug\net6.0\CyclesInAGraph.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\CyclesInAGraph\obj\Debug\net6.0\CyclesInAGraph.AssemblyInfo.cs
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\CyclesInAGraph\obj\Debug\net6.0\CyclesInAGraph.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\CyclesInAGraph\obj\Debug\net6.0\CyclesInAGraph.dll
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\CyclesInAGraph\obj\Debug\net6.0\refint\CyclesInAGraph.dll
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\CyclesInAGraph\obj\Debug\net6.0\CyclesInAGraph.pdb
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\CyclesInAGraph\obj\Debug\net6.0\CyclesInAGraph.genruntimeconfig.cache
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\CyclesInAGraph\obj\Debug\net6.0\ref\CyclesInAGraph.dll

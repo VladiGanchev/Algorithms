@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\AreasInMatrix\bin\Debug\net6.0\AreasInMatrix.exe
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\AreasInMatrix\bin\Debug\net6.0\AreasInMatrix.deps.json
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\AreasInMatrix\bin\Debug\net6.0\AreasInMatrix.runtimeconfig.json
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\AreasInMatrix\bin\Debug\net6.0\AreasInMatrix.dll
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\AreasInMatrix\bin\Debug\net6.0\AreasInMatrix.pdb
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\AreasInMatrix\obj\Debug\net6.0\AreasInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\AreasInMatrix\obj\Debug\net6.0\AreasInMatrix.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\AreasInMatrix\obj\Debug\net6.0\AreasInMatrix.AssemblyInfo.cs
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\AreasInMatrix\obj\Debug\net6.0\AreasInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\AreasInMatrix\obj\Debug\net6.0\AreasInMatrix.dll
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\AreasInMatrix\obj\Debug\net6.0\refint\AreasInMatrix.dll
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\AreasInMatrix\obj\Debug\net6.0\AreasInMatrix.pdb
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\AreasInMatrix\obj\Debug\net6.0\AreasInMatrix.genruntimeconfig.cache
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\AreasInMatrix\obj\Debug\net6.0\ref\AreasInMatrix.dll

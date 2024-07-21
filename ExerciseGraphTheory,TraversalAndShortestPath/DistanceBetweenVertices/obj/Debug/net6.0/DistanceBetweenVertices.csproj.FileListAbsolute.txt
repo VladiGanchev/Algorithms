@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\DistanceBetweenVertices\bin\Debug\net6.0\DistanceBetweenVertices.exe
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\DistanceBetweenVertices\bin\Debug\net6.0\DistanceBetweenVertices.deps.json
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\DistanceBetweenVertices\bin\Debug\net6.0\DistanceBetweenVertices.runtimeconfig.json
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\DistanceBetweenVertices\bin\Debug\net6.0\DistanceBetweenVertices.dll
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\DistanceBetweenVertices\bin\Debug\net6.0\DistanceBetweenVertices.pdb
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\DistanceBetweenVertices\obj\Debug\net6.0\DistanceBetweenVertices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\DistanceBetweenVertices\obj\Debug\net6.0\DistanceBetweenVertices.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\DistanceBetweenVertices\obj\Debug\net6.0\DistanceBetweenVertices.AssemblyInfo.cs
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\DistanceBetweenVertices\obj\Debug\net6.0\DistanceBetweenVertices.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\DistanceBetweenVertices\obj\Debug\net6.0\DistanceBetweenVertices.dll
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\DistanceBetweenVertices\obj\Debug\net6.0\refint\DistanceBetweenVertices.dll
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\DistanceBetweenVertices\obj\Debug\net6.0\DistanceBetweenVertices.pdb
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\DistanceBetweenVertices\obj\Debug\net6.0\DistanceBetweenVertices.genruntimeconfig.cache
+C:\Users\user\source\repos\Algorithms\ExerciseGraphTheory,TraversalAndShortestPath\DistanceBetweenVertices\obj\Debug\net6.0\ref\DistanceBetweenVertices.dll
