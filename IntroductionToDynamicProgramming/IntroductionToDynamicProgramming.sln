@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "Fibonacci\Fibonacci.csproj", "{94365B0C-14BD-4DA5-AC84-1F36ACCD21FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveDownOrRight", "MoveDownOrRight\MoveDownOrRight.csproj", "{C799186E-77A1-4652-9850-03E3891751EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonSubsequence", "LongestCommonSubsequence\LongestCommonSubsequence.csproj", "{FD0AE77D-0B2A-49B1-8CD8-411881C2E187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94365B0C-14BD-4DA5-AC84-1F36ACCD21FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94365B0C-14BD-4DA5-AC84-1F36ACCD21FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94365B0C-14BD-4DA5-AC84-1F36ACCD21FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94365B0C-14BD-4DA5-AC84-1F36ACCD21FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C799186E-77A1-4652-9850-03E3891751EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C799186E-77A1-4652-9850-03E3891751EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C799186E-77A1-4652-9850-03E3891751EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C799186E-77A1-4652-9850-03E3891751EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD0AE77D-0B2A-49B1-8CD8-411881C2E187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD0AE77D-0B2A-49B1-8CD8-411881C2E187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD0AE77D-0B2A-49B1-8CD8-411881C2E187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD0AE77D-0B2A-49B1-8CD8-411881C2E187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E71A86FA-D643-45F3-B847-DD724E748711}
+	EndGlobalSection
+EndGlobal

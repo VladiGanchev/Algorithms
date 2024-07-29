@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Algorithms\IntroductionToDynamicProgramming\MoveDownOrRight\bin\Debug\net6.0\MoveDownOrRight.exe
+C:\Users\user\source\repos\Algorithms\IntroductionToDynamicProgramming\MoveDownOrRight\bin\Debug\net6.0\MoveDownOrRight.deps.json
+C:\Users\user\source\repos\Algorithms\IntroductionToDynamicProgramming\MoveDownOrRight\bin\Debug\net6.0\MoveDownOrRight.runtimeconfig.json
+C:\Users\user\source\repos\Algorithms\IntroductionToDynamicProgramming\MoveDownOrRight\bin\Debug\net6.0\MoveDownOrRight.dll
+C:\Users\user\source\repos\Algorithms\IntroductionToDynamicProgramming\MoveDownOrRight\bin\Debug\net6.0\MoveDownOrRight.pdb
+C:\Users\user\source\repos\Algorithms\IntroductionToDynamicProgramming\MoveDownOrRight\obj\Debug\net6.0\MoveDownOrRight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Algorithms\IntroductionToDynamicProgramming\MoveDownOrRight\obj\Debug\net6.0\MoveDownOrRight.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Algorithms\IntroductionToDynamicProgramming\MoveDownOrRight\obj\Debug\net6.0\MoveDownOrRight.AssemblyInfo.cs
+C:\Users\user\source\repos\Algorithms\IntroductionToDynamicProgramming\MoveDownOrRight\obj\Debug\net6.0\MoveDownOrRight.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Algorithms\IntroductionToDynamicProgramming\MoveDownOrRight\obj\Debug\net6.0\MoveDownOrRight.dll
+C:\Users\user\source\repos\Algorithms\IntroductionToDynamicProgramming\MoveDownOrRight\obj\Debug\net6.0\refint\MoveDownOrRight.dll
+C:\Users\user\source\repos\Algorithms\IntroductionToDynamicProgramming\MoveDownOrRight\obj\Debug\net6.0\MoveDownOrRight.pdb
+C:\Users\user\source\repos\Algorithms\IntroductionToDynamicProgramming\MoveDownOrRight\obj\Debug\net6.0\MoveDownOrRight.genruntimeconfig.cache
+C:\Users\user\source\repos\Algorithms\IntroductionToDynamicProgramming\MoveDownOrRight\obj\Debug\net6.0\ref\MoveDownOrRight.dll
